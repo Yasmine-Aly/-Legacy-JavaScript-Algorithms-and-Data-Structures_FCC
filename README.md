@@ -1,1 +1,1 @@
-# -Legacy-JavaScript-Algorithms-and-Data-Structures_FCC
+# Legacy-JavaScript-Algorithms-and-Data-Structures_FCC
